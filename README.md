@@ -12,7 +12,7 @@ Lab 0 requires the completion of a "Welcome to 431 survey", through Google Forms
 
 ## Instructions and Materials for Labs 1-6
 
-- There are seven required Main Labs this semester (Labs 1-7) and an optional bonus Lab ([Lab X](https://thomaselove.github.io/431-labX/)).
+- There are six Labs this semester, not counting the Lab 0 survey.
 - All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided below.
 - All Lab deadlines are provided in the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
 
