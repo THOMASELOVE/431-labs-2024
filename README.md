@@ -43,8 +43,8 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 
 ## Grading
 
-- Labs 1-5 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
-- Dr. Love reviews the Lab 6 submissions personally.
+- Labs 1-5 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. Each is worth up to 50 points.
+- Dr. Love reviews the Lab 6 submissions personally. 
  
 ## Answer Sketches and Grading Rubrics
 
