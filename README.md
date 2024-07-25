@@ -8,7 +8,7 @@ All deadlines for all Labs are maintained in the [Course Calendar](https://thoma
 
 ## Lab 0
 
-Lab 0 requires the completion of a "Welcome to 431 survey", through Google Forms at CWRU. The link will be posted here and on the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) when available.
+Lab 0 is the [Welcome to 431 survey](https://bit.ly/431-2024-welcome) through Google Forms at CWRU. You must log into Google via CWRU in order to access the Survey.The link is also found on the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
 
 ## Instructions and Materials for Labs 1-6
 
