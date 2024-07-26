@@ -4,7 +4,7 @@ When available, instructions and other materials related to Lab 2 will be posted
 
 ## Prior to attempting Lab 2, we assume ...
 
-- You've attended and reviewed the materials discussed in 431 Classes 1-6, 
+- You've reviewed the materials discussed in 431 Classes 1-6, 
 - You've worked through Chapters 1-8 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
 - You've read the introduction and chapters 1-3 and 5 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and chapters 1-11 of [R for Data Science](https://r4ds.hadley.nz/).
