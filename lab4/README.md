@@ -2,6 +2,13 @@
 
 When available, instructions and other materials related to Lab 4 will be posted here.
 
+## Prior to attempting Lab 4, we assume ...
+
+- You've attended and reviewed the materials discussed in 431 Classes 1-12, 
+- You've worked through Chapters 1-14 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
+- You've read the introduction and chapters 1-3, 5 and 7-9 of David Spiegelhalter's *The Art of Statistics*,
+- You've read the introduction and chapters 1-11, 16 and 28 of [R for Data Science](https://r4ds.hadley.nz/).
+
 ## Please note
 
 - All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided below.
