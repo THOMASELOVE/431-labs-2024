@@ -18,15 +18,15 @@ Lab 0 is the [Welcome to 431 survey](https://bit.ly/431-2024-welcome) through Go
 
 <div align="center">
 
-| Lab | Instructions and Additional Materials
-| :---: | :--------------------------------------------
-1 | [Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/)
-2 | [Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab2/)
-3 | [Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab3/)
-4 | [Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab4/)
-5 | [Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab5/)
-6 | [Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/)
-7 | [Lab 7 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/)
+Lab Instructions and Additional Materials
+| :--------------------------------------------: |
+[Lab 1 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/)
+[Lab 2 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab2/)
+[Lab 3 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab3/)
+[Lab 4 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab4/)
+[Lab 5 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab5/)
+[Lab 6 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/)
+[Lab 7 Materials](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/)
 
 
 </div>
