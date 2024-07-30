@@ -1,6 +1,6 @@
 # Lab 1 for 431 in Fall 2024
 
-When available, instructions and other materials related to Lab 1 will be posted here.
+When available, other materials related to Lab 1 will be posted here.
 
 ## Prior to attempting Lab 1, we assume ...
 
@@ -8,6 +8,10 @@ When available, instructions and other materials related to Lab 1 will be posted
 - You've worked through Chapters 1-5 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
 - You've read the introduction and chapters 1 and 2 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and (most of) the "Whole Game" part (chapters 1-8) of [R for Data Science](https://r4ds.hadley.nz/).
+
+## Instructions
+
+Here is a [PDF of the Lab 1 instructions](lab1.pdf).
 
 ## Please note
 
