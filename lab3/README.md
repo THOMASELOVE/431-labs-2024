@@ -11,7 +11,7 @@ When available, instructions and other materials related to Lab 3 will be posted
 
 ## Instructions
 
-The instructions for Lab 3 are [here](431-lab3.pdf).
+Here is a [PDF of the Lab 3 instructions](431-lab3.pdf).
 
 - The article by Jeff Leek that you'll use in this Lab is "[Finally, a Formula For Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/)" from the old FiveThirtyEight site posted 2014-03-17. FiveThirtyEight is different now than it was in its initial incarnation.
 
