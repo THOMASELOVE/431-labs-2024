@@ -9,6 +9,12 @@ When available, instructions and other materials related to Lab 5 will be posted
 - You've read the introduction and chapters 1-3, 5 and 7-12 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and chapters 1-11, 16 and 28 of [R for Data Science](https://r4ds.hadley.nz/).
 
+## Please note
+
+- All necessary data and templates for Labs this semester can be downloaded at [our 431-data page](https://github.com/THOMASELOVE/431-data).
+- All Lab deadlines are provided in the [Course Calendar](https://thomaselove.github.io/431-2025/calendar.html).
+- The main website for 431 in Fall 2024 is <https://thomaselove.github.io/431-2024>.
+
 
 ## Please note
 
