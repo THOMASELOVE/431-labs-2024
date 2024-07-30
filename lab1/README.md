@@ -11,7 +11,7 @@ When available, other materials related to Lab 1 will be posted here.
 
 ## Instructions
 
-Here is a [PDF of the Lab 1 instructions](lab1.pdf).
+Here is a [PDF of the Lab 1 instructions](431-lab1.pdf).
 
 ## Please note
 
