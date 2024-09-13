@@ -13,6 +13,8 @@ When available, other materials related to Lab 2 will be posted here.
 
 Here is a [PDF of the Lab 2 instructions](431-lab2.pdf).
 
+**Note**: I posted a revised version of Lab 2 on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
+
 ## Please note
 
 - All necessary data and templates for Labs this semester can be downloaded at [our 431-data page](https://github.com/THOMASELOVE/431-data).
