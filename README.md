@@ -31,6 +31,10 @@ Lab Instructions and Additional Materials
 
 </div>
 
+## Tips for Lab Work
+
+See [here](tips.md) for some tips to remember before submitting your Lab work.
+
 ## Getting Help During The Lab
 
 You are welcome to discuss each Lab with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2024/contact.html) page.
