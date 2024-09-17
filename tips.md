@@ -1,4 +1,4 @@
-# Some Tips for Lab Work
+# Some Tips for Lab (and Project) Work
 
 1. Be sure you carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
 2. Use the templates provided by Dr. Love when you can.
