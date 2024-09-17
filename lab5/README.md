@@ -9,6 +9,11 @@ When available, instructions and other materials related to Lab 5 will be posted
 - You've read the introduction and chapters 1-3, 5 and 7-12 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and chapters 1-11, 16 and 28 of [R for Data Science](https://r4ds.hadley.nz/).
 
+## Tips for Lab Work
+
+See [here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for some general tips to remember in doing your Lab work.
+
+
 ## Please note
 
 - All necessary data and templates for Labs this semester can be downloaded at [our 431-data page](https://github.com/THOMASELOVE/431-data).
