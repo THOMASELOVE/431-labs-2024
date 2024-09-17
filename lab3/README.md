@@ -15,6 +15,11 @@ Here is a [PDF of the Lab 3 instructions](431-lab3.pdf).
 
 - The article by Jeff Leek that you'll use in this Lab is "[Finally, a Formula For Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/)" from the old FiveThirtyEight site posted 2014-03-17. FiveThirtyEight is different now than it was in its initial incarnation.
 
+## Tips for Lab Work
+
+See [here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for some general tips to remember in doing your Lab work.
+
+
 ## Please note
 
 - All necessary data and templates for Labs this semester can be downloaded at [our 431-data page](https://github.com/THOMASELOVE/431-data).
