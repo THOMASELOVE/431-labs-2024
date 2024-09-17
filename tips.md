@@ -1,4 +1,4 @@
-# Some Tips for Lab (and Project) Work
+# Some Tips for Lab (and Project A and Project B) Work
 
 1. Be sure you carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
 2. Use the templates provided by Dr. Love when you can.
@@ -15,9 +15,10 @@
     - every code chunk
     - every heading
     - every new paragraph of text
-13. Use the tidyverse to manage data, whenever possible.
-14. Hit F7 to use spell-check in RStudio on your Quarto file. It's not perfect, especially with headers, but at least it might help.
-15. Ensure that the session information is available as a section in the Table of Contents.
-16. Use the [version of R that Dr. Love recommends](https://thomaselove.github.io/431-2024/software.html). At the moment, that's R version 4.4.1.
-17. [Update your R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
-18. Be sure to again carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
+13. Hit ENTER after every pipe and + in your code so that you avoid scrollable windows for code in your HTML output.
+14. Use the tidyverse to manage data, whenever possible.
+15. Hit F7 to use spell-check in RStudio on your Quarto file. It's not perfect, especially with headers, but at least it might help.
+16. Ensure that the session information is available as a section in the Table of Contents.
+17. Use the [version of R that Dr. Love recommends](https://thomaselove.github.io/431-2024/software.html). At the moment, that's R version 4.4.1.
+18. [Update your R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
+19. Be sure to again carefully go through the HTML result of your Lab before you submit it to ensure that everything looks OK, and that, for instance, the Table of Contents works properly.
