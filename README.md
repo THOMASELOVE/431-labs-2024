@@ -64,11 +64,11 @@ As each Lab passes its deadline (as listed in the [Course Calendar](https://thom
 
 ## Lab Regrade Requests will be reviewed in December
 
-The **Lab Regrade Request Form** will open after Lab 1's grades are posted. 
+The **[Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request)** will open after Lab 1's grades are posted. 
 
-We use this form to handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
+We use this form to handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The [Form](https://bit.ly/431-2024-lab-regrade-request) is used for all other regrade situations.
 
-- If you want Dr. Love to review your grade on one (or more) of Labs 1-6, fill out the Lab Regrade Request Form anytime before the deadline on the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html). 
+- If you want Dr. Love to review your grade on one (or more) of Labs 1-6, fill out the [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) any time before the deadline on the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html). Once you submit the form, you'll have the ability to edit it, so you can add to it later in the semester if necessary.
 - When all other course work has been graded, Dr. Love will open the form. If you have requested additional points that could change your course grade, he'll review your request. If not, then he won't. 
 
 The main website for 431 in Fall 2024 is <https://thomaselove.github.io/431-2024>.
