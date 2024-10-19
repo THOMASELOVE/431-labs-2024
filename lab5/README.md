@@ -1,6 +1,6 @@
 # Lab 5 for 431 in Fall 2024
 
-When available, instructions and other materials related to Lab 5 will be posted here.
+Instructions and other materials related to Lab 5 are now available.
 
 ## Prior to attempting Lab 5, we assume ...
 
