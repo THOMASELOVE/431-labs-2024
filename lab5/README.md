@@ -4,10 +4,14 @@ When available, instructions and other materials related to Lab 5 will be posted
 
 ## Prior to attempting Lab 5, we assume ...
 
-- You've reviewed the materials discussed in 431 Classes 1-19, 
-- You've worked through Chapters 1-19 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
+- You've reviewed the materials discussed in 431 Classes 1-18, 
+- You've worked through Chapters 1-18 of [Dr. Love's 431 text](https://thomaselove.github.io/431-book/),
 - You've read the introduction and chapters 1-3, 5 and 7-12 of David Spiegelhalter's *The Art of Statistics*,
 - You've read the introduction and chapters 1-11, 16 and 28 of [R for Data Science](https://r4ds.hadley.nz/).
+
+## Lab 5 instructions
+
+Here are [the Lab 5 instructions](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab5/431-lab5.pdf).
 
 ## Tips for Lab Work
 
