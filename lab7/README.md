@@ -5,8 +5,11 @@ Thomas E. Love, posted
 ## Prior to attempting Lab 7, we assume …
 
 - You’ve completed 431 Lab 1, and
-- You’ve read sections 11 and 28-29 of [R for Data
-  Science](https://r4ds.hadley.nz/).
+- You’ve read sections 11 and 28-29 of [R for Data Science](https://r4ds.hadley.nz/).
+
+# NEW! Completed Websites by Students in this year's class
+
+- [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 
 # What is this?
 
@@ -140,6 +143,7 @@ this early is definitely a good idea.
 If they can, sure, but only after anyone else looking for 431 help has
 had their problem settled. I do not guarantee that we can help fix your
 website problems.
+
 
 ## Are there examples from past students?
 
