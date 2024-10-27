@@ -12,6 +12,7 @@ Thomas E. Love, posted
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 
+
 # What is this?
 
 Lab 7 requires you to build a professional website, or augment your
@@ -145,9 +146,21 @@ If they can, sure, but only after anyone else looking for 431 help has
 had their problem settled. I do not guarantee that we can help fix your
 website problems.
 
+## Grading Lab 7
+
+- Lab 7 is worth 25 points.
+- Students will receive all 25 points if their Lab 7
+    - is on time,
+    - was built using Quarto,
+    - site clearly includes the five key elements listed above,
+    - site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
+- Students will receive a maximum of 22/25 points if their site was built using something other than Quarto.
+
 
 ## Are there examples from past students?
 
 Yes. Visit [this
 link](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8#approved-lab-8-submissions-so-far)
 for some student websites from people who took 432 this past Spring.
+
+
