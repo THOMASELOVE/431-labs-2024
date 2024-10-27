@@ -10,6 +10,7 @@ Thomas E. Love, posted
 # NEW! Completed Websites by Students in this year's class
 
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
+- [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 
 # What is this?
 
