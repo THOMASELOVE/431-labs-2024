@@ -149,12 +149,12 @@ website problems.
 ## Grading Lab 7
 
 - Lab 7 is worth 25 points.
-- Students will receive all 25 points if their Lab 7
-    - is on time,
-    - was built using Quarto,
-    - site clearly includes the five key elements listed above,
-    - site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
-- Students will receive a maximum of 22/25 points if their site was built using something other than Quarto.
+- Students will receive all 25 points if their ...
+    - Lab 7 submission is on time,
+    - Lab 7 site was built using Quarto,
+    - Lab 7 site clearly includes [the five key elements listed above](#the-five-key-elements)
+    - Lab 7 site has no unfixed typos or grammatical issues that Dr. Love notices in his review.
+- Students will receive a maximum of 22.5/25 points if their site was built using something other than Quarto, but otherwise meets these standards.
 
 
 ## Are there examples from past students?
