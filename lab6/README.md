@@ -1,6 +1,6 @@
 # Lab 6 for 431 in Fall 2024
 
-When available, instructions and other materials related to Lab 6 will be posted here.
+Instructions for Lab 6 are [available in this pdf](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/431-lab6.pdf).
 
 ## Prior to attempting Lab 6, we assume ...
 
