@@ -17,7 +17,7 @@ Thomas E. Love, posted
 
 # NEW! Advice for getting your website online from a student who did it
 
-[Advice on How to Publish Your Website on GitHub](lab7_publishing_advice.pdf), by Nihit Mehta (PDF)
+[Advice on How to Publish Your Website on GitHub](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), by Nihit Mehta (PDF)
 
 
 # What is this?
