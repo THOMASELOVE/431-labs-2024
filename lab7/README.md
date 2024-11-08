@@ -11,6 +11,13 @@ Thomas E. Love, posted
 
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
+- [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
+- [Dana Jian](https://dzjian1.github.io/)
+- [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
+
+# NEW! Advice for getting your website online from a student who did it
+
+[Advice on How to Publish Your Website on GitHub](lab7_publishing_advice.pdf), by Nihit Mehta (PDF)
 
 
 # What is this?
