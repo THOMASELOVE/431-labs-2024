@@ -7,7 +7,13 @@ Thomas E. Love, posted
 - You’ve completed 431 Lab 1, and
 - You’ve read sections 11 and 28-29 of [R for Data Science](https://r4ds.hadley.nz/).
 
-# NEW! Completed Websites by Students in this year's class
+----
+
+## NEW! Advice for getting your website online from a student who did it
+
+[Advice on How to Publish Your Website on GitHub](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), by Nihit Mehta (PDF)
+
+## NEW! Completed Websites by Students in this year's class
 
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
@@ -15,10 +21,7 @@ Thomas E. Love, posted
 - [Dana Jian](https://dzjian1.github.io/)
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
 
-# NEW! Advice for getting your website online from a student who did it
-
-[Advice on How to Publish Your Website on GitHub](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), by Nihit Mehta (PDF)
-
+----
 
 # What is this?
 
