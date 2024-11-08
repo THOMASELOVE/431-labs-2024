@@ -167,10 +167,3 @@ website problems.
 - Students will receive a maximum of 22.5/25 points if their site was built using something other than Quarto, but otherwise meets these standards.
 
 
-## Are there examples from past students?
-
-Yes. Visit [this
-link](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8#approved-lab-8-submissions-so-far)
-for some student websites from people who took 432 this past Spring.
-
-
