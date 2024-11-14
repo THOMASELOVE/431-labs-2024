@@ -20,6 +20,7 @@ Thomas E. Love, posted
 - [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
 - [Dana Jian](https://dzjian1.github.io/)
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
+- [Vedasree Machiraju](https://vmachira.github.io/)
 
 ----
 
