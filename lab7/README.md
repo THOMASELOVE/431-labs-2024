@@ -21,7 +21,9 @@ Thomas E. Love, posted
 - [Dana Jian](https://dzjian1.github.io/)
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
 - [Vedasree Machiraju](https://vmachira.github.io/)
-
+- [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
+- [Isaac Zeng](https://www.isaaczz.com/)
+ 
 ----
 
 # What is this?
