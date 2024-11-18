@@ -23,6 +23,9 @@ Thomas E. Love, posted
 - [Vedasree Machiraju](https://vmachira.github.io/)
 - [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
 - [Isaac Zeng](https://www.isaaczz.com/)
+- [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
+- [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
+
  
 ----
 
