@@ -15,16 +15,16 @@ Thomas E. Love, posted
 
 ## NEW! Completed Websites by Students in this year's class
 
-- [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
-- [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
-- [Dana Jian](https://dzjian1.github.io/)
-- [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
-- [Vedasree Machiraju](https://vmachira.github.io/)
-- [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
-- [Isaac Zeng](https://www.isaaczz.com/)
 - [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
+- [Dana Jian](https://dzjian1.github.io/)
+- [Isaac Zeng](https://www.isaaczz.com/)
 - [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
+- [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
+- [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
+- [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
+- [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
+- [Vedasree Machiraju](https://vmachira.github.io/)
 
  
 ----
