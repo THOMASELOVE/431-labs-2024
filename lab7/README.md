@@ -28,7 +28,6 @@ Thomas E. Love, posted
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Vedasree Machiraju](https://vmachira.github.io/)
 
- 
 ----
 
 # What is this?
