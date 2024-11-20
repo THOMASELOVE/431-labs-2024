@@ -24,6 +24,7 @@ Thomas E. Love, posted
 - [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
 - [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
+- [Megan Zelinsky](https://zelinsm.github.io/meganzelinsky/)
 - [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Vedasree Machiraju](https://vmachira.github.io/)
