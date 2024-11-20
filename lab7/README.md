@@ -16,6 +16,7 @@ Thomas E. Love, posted
 ## NEW! Completed Websites by Students in this year's class
 
 - [Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/)
+- [Alayna Rowell](https://rowellalayna.github.io/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 - [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
 - [Dana Jian](https://dzjian1.github.io/)
