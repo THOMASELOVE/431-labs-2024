@@ -20,6 +20,8 @@ Thomas E. Love, posted
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 - [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
 - [Dana Jian](https://dzjian1.github.io/)
+- [Guanyu Wei](https://weiguanyuslp.github.io/)
+- [Haley Altadonna](https://haleyaltadonna.github.io/haleyaltadonna/)
 - [Isaac Zeng](https://www.isaaczz.com/)
 - [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
 - [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/)
