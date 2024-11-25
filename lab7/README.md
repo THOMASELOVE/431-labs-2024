@@ -31,6 +31,7 @@ Thomas E. Love, posted
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
 - [Megan Zelinsky](https://zelinsm.github.io/meganzelinsky/)
 - [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
+- [Rachel Liu](https://rachel-xyl-yeh.github.io/rachelxyliuyeh/)
 - [Shraddha Dumawat](https://shraddha-dumawat.github.io/Shraddhaa-web/)
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Vedasree Machiraju](https://vmachira.github.io/)
