@@ -19,6 +19,7 @@ Thomas E. Love, posted
 - [Alayna Rowell](https://rowellalayna.github.io/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 - [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
+- [Brooke Jurasius](https://bvjurasius.github.io/brookejurasius/)
 - [Dana Jian](https://dzjian1.github.io/)
 - [Gina Lin](https://ginaalin.github.io/ginalin/)
 - [Guanyu Wei](https://weiguanyuslp.github.io/)
@@ -30,6 +31,7 @@ Thomas E. Love, posted
 - [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/)
 - [Megan Zelinsky](https://zelinsm.github.io/meganzelinsky/)
 - [Nihit Mehta](https://nmehta08.github.io/nmehta08/)
+- [Shraddha Dumawat](https://shraddha-dumawat.github.io/Shraddhaa-web/)
 - [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
 - [Vedasree Machiraju](https://vmachira.github.io/)
 
