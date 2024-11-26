@@ -17,6 +17,7 @@ Thomas E. Love, posted
 
 - [Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/)
 - [Alayna Rowell](https://rowellalayna.github.io/)
+- [Alexis Heath](https://aeheath.github.io/aeheath/)
 - [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/)
 - [Brooke Bhattacharya](https://bxb576.github.io/bxb576/)
 - [Brooke Jurasius](https://bvjurasius.github.io/brookejurasius/)
