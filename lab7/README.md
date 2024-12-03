@@ -17,15 +17,15 @@ Thomas E. Love, posted
 
 Student Website | Student Website | Student Website | Student Website | Student Website | Student Website 
 :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------:
-[Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/) | *ajay mahenthiran* | [Alayna Rowell](https://rowellalayna.github.io/) | [Alexis Heath](https://aeheath.github.io/aeheath/) | *anika krishna* | *arya patel*
+[Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/) | [Ajay Mahenthiran](https://ajaymahenth.github.io/AjayFinalWebsite/) | [Alayna Rowell](https://rowellalayna.github.io/) | [Alexis Heath](https://aeheath.github.io/aeheath/) | *anika krishna* | *arya patel*
 [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/) | [Brooke Bhattacharya](https://bxb576.github.io/bxb576/) | [Brooke Jurasius](https://bvjurasius.github.io/brookejurasius/) | *carly daCosta* | *cassandra lopez* | *dali nemecio*
 [Dana Jian](https://dzjian1.github.io/) | [Debbie Seifert](https://deborahseifert.github.io/) | *derek host* | [Feriel Presswalla](https://ferielp.github.io/) | *gabrielle davis* | [Gina Lin](https://ginaalin.github.io/ginalin/)
-*graham stockdale* | [Guanyu Wei](https://weiguanyuslp.github.io/) | [Haley Altadonna](https://haleyaltadonna.github.io/haleyaltadonna/) | *harshita kumar* | [Isaac Zeng](https://www.isaaczz.com/) |  [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
+[Graham Stockdale](https://ballardmallard.github.io/website/) | [Guanyu Wei](https://weiguanyuslp.github.io/) | [Haley Altadonna](https://haleyaltadonna.github.io/haleyaltadonna/) | [Harshita Kumar](https://hkumar2907.github.io/hkwebsite/) | [Isaac Zeng](https://www.isaaczz.com/) |  [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
 [JiaWei Yu](https://jiyu3048.github.io/jiyu3048/) | [Jose diz Ferre](https://joseluisdizferre.github.io/md/) | [Katherine Papahadjopoulos](https://katherinep1214.github.io/about-me/) | *kelly bowen* | *leia george* | *madaline witort*
 [Mahsa Sheikholeslamian](https://mahsa-sheikh.github.io/Mahsa-Sheikh/) | [Megan Zelinsky](https://zelinsm.github.io/meganzelinsky/) | *mohammad nasirpour* | [Monica Ghosh](https://monicaghosh.github.io/) | *morgan mcloughlin* | *nick nazak*
 [Nihit Mehta](https://nmehta08.github.io/nmehta08/) | [Olivia Lindberg](https://olivialindberg.github.io/olivialindberg/) | *paul jones* | [Rachel Liu](https://rachel-xyl-yeh.github.io/rachelxyliuyeh/) | *rebecca stinson* | *reilly burhanna*
-[Saar Anis](https://saaranismd.github.io/) | *sarah cooke* | [Shraddha Dumawat](https://shraddha-dumawat.github.io/Shraddhaa-web/) | *sonny caradonna* | *spancer zhou* | [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
-*tatiana dombrovski* | *tom kupferer* | *toni shoyinka* | [Vedasree Machiraju](https://vmachira.github.io/) | *weiyun liang* | *zuhair khan*
+[Saar Anis](https://saaranismd.github.io/) | *sarah cooke* | [Shraddha Dumawat](https://shraddha-dumawat.github.io/Shraddhaa-web/) | [Sonny Caradonna](https://scaradonna.github.io/scaradonna/) | *spancer zhou* | [Tatchaporn Ongphichetmetha](https://tatchaporn.github.io/tatchaporn/)
+*tatiana dombrovski* | [Tom Kupferer](https://twkcco313.github.io/431-Website/) | *toni shoyinka* | [Vedasree Machiraju](https://vmachira.github.io/) | [Weiyun Liang](https://weiyun.me/) | *zuhair khan*
 
 ## New! 
 
