@@ -1,6 +1,5 @@
 # 431 Lab 7 Instructions
-Thomas E. Love, posted
-2024-07-30
+Thomas E. Love
 
 ## Prior to attempting Lab 7, we assume …
 
@@ -17,7 +16,7 @@ Thomas E. Love, posted
 
 Student Website | Student Website | Student Website | Student Website | Student Website | Student Website 
 :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------: | :--------------------------:
-[Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/) | [Ajay Mahenthiran](https://ajaymahenth.github.io/AjayFinalWebsite/) | [Alayna Rowell](https://rowellalayna.github.io/) | [Alexis Heath](https://aeheath.github.io/aeheath/) | *anika krishna* | *arya patel*
+[Aishwarya Deengar](https://aishwaryad1.github.io/Personal-Website/) | [Ajay Mahenthiran](https://ajaymahenth.github.io/AjayFinalWebsite/) | [Alayna Rowell](https://rowellalayna.github.io/) | [Alexis Heath](https://aeheath.github.io/aeheath/) | [Anika Krishna](https://anikakrishna.github.io/) | [Arya Patel](https://axp1031.github.io/)
 [Atticus Kenny](https://atticus-kenny.github.io/atticuskenny/) | [Brooke Bhattacharya](https://bxb576.github.io/bxb576/) | [Brooke Jurasius](https://bvjurasius.github.io/brookejurasius/) | *carly daCosta* | *cassandra lopez* | [Dali Nemecio](https://dalinemecio.github.io/dalinemecio/)
 [Dana Jian](https://dzjian1.github.io/) | [Debbie Seifert](https://deborahseifert.github.io/) | *derek host* | [Feriel Presswalla](https://ferielp.github.io/) | *gabrielle davis* | [Gina Lin](https://ginaalin.github.io/ginalin/)
 [Graham Stockdale](https://ballardmallard.github.io/website/) | [Guanyu Wei](https://weiguanyuslp.github.io/) | [Haley Altadonna](https://haleyaltadonna.github.io/haleyaltadonna/) | [Harshita Kumar](https://hkumar2907.github.io/hkwebsite/) | [Isaac Zeng](https://www.isaaczz.com/) |  [Jeff Lambe](https://jefflambe.quarto.pub/jeff-lambe/)
